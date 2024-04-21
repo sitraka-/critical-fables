@@ -224,52 +224,17 @@ custom_head: head-default.html
 
 <section data-state=grid>
 <style>.grid header:after { content: "The Grid"; }</style>
-<table style="font-size:1.5rem;">
+<table >
     <tr>
-        <th><input type="text" /></th>
-        <th><input type="text" /></th>
-        <th><input type="text" /></th>
-        <th><input type="text" /></th>
-        <th><input type="text" /></th>
-        <th><input type="text" /></th>
-        <th><input type="text" /></th>
-        <th><input type="text" /></th>
-        <th><input type="text" /></th>
-    </tr>
-    <tr>
-        <td>Oct. 31</td>
-        <td>Brief Launch</td>
-        <td>Initial World Building</td>
-    </tr>
-    <tr>
-        <td style="background-color: #5cb17a; color: white; font-weight:bold;">Nov. 7</td>
-        <td>Teensy Electronic</td>
-        <td style="font-weight: bold; background-color: #5cb17a; color: white;">4PM Joseph Popper Talk</td>
-    </tr>
-    <tr>
-        <td>Nov. 21</td>
-        <td>Status Check</td>
-        <td>Working prototype</td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;background-color: #5cb17a; color: white;">Dec. 5</td>
-        <td style="font-weight: bold; background-color: #5cb17a; color: white;">Design Review</td>
-        <td>Artefact Done</td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;background-color: #5cb17a; color: white;">Jan. 9</td>
-        <td style="font-weight: bold;background-color: #5cb17a; color: white;">Hand In's Audio/Writings</td>
-        <td style="font-weight: bold;background-color: #5cb17a; color: white;">Performance w/ Malena Arcucci</td>
-    </tr>
-    <tr>
-        <td >Jan. 16</td>
-        <td>Documentation</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;background-color: #5cb17a; color: white;">Jan. 21</td>
-        <td style="font-weight: bold;background-color: #5cb17a; color: white;">PERFORMANCE @ The Yard Theatre</td>
-        <td></td>
+        <td><input type="text" /></td>
+        <td><input type="text" /></td>
+        <td><input type="text" /></td>
+        <td><input type="text" /></td>
+        <td><input type="text" /></td>
+        <td><input type="text" /></td>
+        <td><input type="text" /></td>
+        <td><input type="text" /></td>
+        <td><input type="text" /></td>
     </tr>
 </table>
 </section>

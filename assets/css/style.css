@@ -53,6 +53,19 @@
     --pic-font: 'picnic';
 }
 
+table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+input {
+    padding: 0;
+}
+
+th {
+    padding: 0 !important;
+}
+
 .pic {
     font-family: var(--pic-font) !important;
     font-size: 10rem !important;

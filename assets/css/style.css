@@ -137,6 +137,19 @@ td {
     color: var(--color-heading);
 }
 
+.flexy {
+    width: 100%;
+    display: flex;
+    position: relative;
+    max-width: 100%;
+    justify-content: space-between;
+    font-family: 'IBM Plex Mono';
+}
+
+.margin6remTop {
+    margin-top: 6rem;
+}
+
 body {
     accent-color: #6cc78c;
     background: var(--bg);

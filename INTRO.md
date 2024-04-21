@@ -328,6 +328,6 @@ custom_head: head-default.html
 </section>
 
 <section data-background-image="assets/images/wb.png" data-background-size="60%" data-background-color="#532D73" data-state=map1>
-    <p><span class="fragment">POLICY-MAKING</span><span class="fragment">HEALTH & SAFETY</span></p>
+    <p class="flexy"><span class="fragment">POLICY-MAKING</span><span class="fragment">HEALTH & SAFETY</span></p>
     <p><span class="fragment">POLICY-MAKING</span><span class="fragment">HEALTH & SAFETY</span></p>
 </section>

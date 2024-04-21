@@ -27,16 +27,18 @@
     --maxW: 50%;
     --minW: 550px;
     --heading-font: 'lithops';
+    --color-heading: indigo;
 }
 
 .mc {
     font-family: "Montchauve", sans-serif;
-    font-size: 8rem;
+    font-size: 12rem;
 }
 
 .lit {
     font-family: var(--heading-font);
     font-size: 8rem;
+    color: var(--color-heading);
 }
 
 body {
@@ -52,7 +54,7 @@ body {
     font-size: 0.8rem;
     /*     text-align: justify; */
     margin: 0;
-    padding: 2rem 3rem 3rem 3rem;
+    /* padding: 2rem 3rem 3rem 3rem; */
     overflow-x: hidden;
 
 }

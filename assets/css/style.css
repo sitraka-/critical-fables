@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,700;1,500&family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Vesper+Libre:wght@400;700&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Rubik+Puddles&family=Rubik+Beastly&family=Rubik+Wet+Paint&display=swap');
+
+
+
 @font-face {
     font-family: "Montchauve";
     src: url("../../assets/fonts/montchauve/Montchauve.otf") format("opentype"),
@@ -28,15 +32,25 @@
     --minW: 550px;
     --heading-font: 'lithops';
     --color-heading: indigo;
+    --rub-font: 'Rubik Wet Paint';
+    --rub-b-font: 'Rubik Beastly';
+    --rub-p-font: 'Rubik Puddles';
+    --rub-m-font: 'Rubik Mono One';
 }
 
 .mc {
     font-family: "Montchauve", sans-serif;
-    font-size: 12rem;
+    font-size: 8rem;
 }
 
 .lit {
     font-family: var(--heading-font);
+    font-size: 12rem;
+    color: var(--color-heading);
+}
+
+.rubBeast {
+    font-family: var(--rub-b-font);
     font-size: 8rem;
     color: var(--color-heading);
 }

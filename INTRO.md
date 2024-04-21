@@ -5,7 +5,7 @@ custom_head: head-default.html
 ---
 
 <section data-state=header0>
-<style>.header0 header:after { content: "Critical Fables — April 22nd"; }</style>
+<style>.header0 header:after { content: "Critical Fables / April 22nd"; }</style>
     <!-- <img src="assets/images/soundSysPicnic_g_al.png" /> -->
     <span class="lit">CRITICAL<br>FABLES</span>
 </section>

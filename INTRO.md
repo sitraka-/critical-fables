@@ -142,6 +142,17 @@ custom_head: head-default.html
     <span class="rub-W">IMAGINING OBJECTS, ARTEFACTS AND THINGS EMBODYING THE WORLD WITHIN WHICH THESE THINGS EXIST.</span>
 </section>
 
+<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=kesh>
+    <style>.kesh header:after { content: "Le Guin U. & Barton T., Music and Poetry of the Kesh, 1984"; }</style>
+    <img src="assets/images/Le-Guin2.jpg" />
+    <aside class="notes">
+    </aside>
+</section>
+
+<section data-background-image="assets/images/golden-1.webp" data-background-opacity="0.7" data-state=gold>
+    <style>.gold header:after { content: "Voyager Golden Record, 1977"; }</style>
+</section>
+
 <section data-state=header14>
     <span class="rub-MR">REVERSE ARCHEOLOGY</span>
 </section>
@@ -165,7 +176,7 @@ custom_head: head-default.html
 </section>
 
 <section data-state=header19>
-    <style>.header19 header:after { content: ""; }</style>
+    <style>.header19 header:after { content: "/"; }</style>
     <img src="assets/images/drivecine.jpg" style="max-height: 65vh;" />
 </section>
 
@@ -189,7 +200,7 @@ custom_head: head-default.html
 
 <section data-state=header0>
     <!-- <img src="assets/images/soundSysPicnic_g_al.png" /> -->
-    <span class="rub-W">A fictional narrative featuring both human and nonhuman characters to convey a moral or lesson through their actions and experiences. These narratives can range from etiquette to ethics and societal values.</span>
+    A fictional narrative featuring both human and nonhuman characters to convey a moral or lesson through their actions and experiences. These narratives can range from etiquette to ethics and societal values.
 </section>
 
 <section data-background-color="#0056FF" data-state=header4>

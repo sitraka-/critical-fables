@@ -84,7 +84,13 @@
 
 .rub-MR {
     font-family: var(--rub-mr-font);
-    font-size: 8rem;
+    font-size: 5rem;
+    color: var(--color-heading);
+}
+
+.rub-P {
+    font-family: var(--rub-p-font);
+    font-size: 5rem;
     color: var(--color-heading);
 }
 

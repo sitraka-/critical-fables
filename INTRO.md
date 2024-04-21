@@ -81,61 +81,50 @@ custom_head: head-default.html
 </section>
 
 <section data-state=header10>
-    <span class="rub-MR">OBJECTS<br>AS NARRATIVES</span>
+    <span class="rub-P">OBJECTS<br>AS NARRATIVES</span>
 </section>
 
-<section data-state=header11>
+<section data-background-image="assets/images/pp1.jpg" data-state=header11>
     <style>.header11 header:after { content: "Prophecy Program, 2013"; }</style>
-    <img src="assets/images/pp1.jpg" />
+    PROPHECY PROGRAM
 </section>
 
-<section data-state=header11>
-    <img src="assets/images/pp2.jpg" />
+<section data-background-image="assets/images/pp2.jpg" data-state=header11>
 </section>
 
-<section data-state=header11>
-    <img src="assets/images/pp22.jpg" />
+<section data-background-image="assets/images/pp22.jpg" data-state=header11>
 </section>
 
-<section data-state=header11>
-    <img src="assets/images/pp3.jpg" />
+<section data-background-image="assets/images/pp3.jpg" data-state=header11>
 </section>
 
-<section data-state=header11>
-    <img src="assets/images/pp4.jpg" />
+<section data-background-image="assets/images/pp4.jpg" data-state=header11>
 </section>
 
-<section data-state=header11>
-    <img src="assets/images/pp5.jpg" />
+<section data-background-image="assets/images/pp5.jpg" data-state=header11>
 </section>
 
-<section data-state=header11>
-    <img src="assets/images/pp6.jpg" />
+<section data-background-image="assets/images/pp6.jpg" data-state=header11>
 </section>
 
-<section data-state=header12>
+<section data-background-image="assets/images/sho1.jpg" data-state=header12>
     <style>.header12 header:after { content: "Shocking, 2010"; }</style>
-    <img src="assets/images/sho1.jpg" />
+    SHOCKING
 </section>
 
-<section data-state=header12>
-    <img src="assets/images/sho2.jpg" />
+<section data-background-image="assets/images/sho2.jpg" data-state=header12>
 </section>
 
-<section data-state=header12>
-    <img src="assets/images/sho3.jpg" />
+<section data-background-image="assets/images/sho3.jpg" data-state=header12>
 </section>
 
-<section data-state=header12>
-    <img src="assets/images/sho4.jpg" />
+<section data-background-image="assets/images/sho4.jpg" data-state=header12>
 </section>
 
-<section data-state=header12>
-    <img src="assets/images/sho5.jpg" />
+<section data-background-image="assets/images/sho5.jpg" data-state=header12>
 </section>
 
-<section data-state=header12>
-    <img src="assets/images/sho6.jpg" />
+<section data-background-image="assets/images/sho6.jpg" data-state=header12>
 </section>
 
 <section data-state=header13>
@@ -146,6 +135,10 @@ custom_head: head-default.html
 <section data-state=header14>
     <style>.header14 header:after { content: "VVFA, 2015"; }</style>
     <span class="rub-W">IMAGINING OBJECTS, ARTEFACTS AND THINGS EMBODYING THE WORLD WITHIN WHICH THESE THINGS EXIST.</span>
+</section>
+
+<section data-state=header14>
+    <span class="rub-MR">REVERSE ARCHEOLOGY</span>
 </section>
 
 

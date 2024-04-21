@@ -76,7 +76,7 @@ tr {
 }
 
 td {
-    padding: 0 !important;
+    padding: 10px 15px 10px 0 !important;
     border: none !important;
     text-align: center !important;
 }

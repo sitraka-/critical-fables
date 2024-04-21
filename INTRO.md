@@ -206,18 +206,18 @@ custom_head: head-default.html
 <section data-state=header1>
     <span class="pic">NEW<br>Rituals</span>
 </section>
-<section data-background-image="assets/images/AC76-0492.1.jpeg" data-state=rit>
+<section data-state=rit>
 <style>.rit header:after { content: "-"; }</style>
      <img src="assets/images/tomsachs.webp" style="max-width:70%;"/>
 </section>
-<section data-background-image="assets/images/AC76-0492.1.jpeg" data-state=rit>
+<section data-state=rit>
      <img src="assets/images/spaceceleb.jpg" style="max-width:70%;" />
 </section>
-<section data-background-image="assets/images/AC76-0492.1.jpeg" data-state=rit>
+<section data-state=rit>
      <img src="assets/images/trucksim.jpg" style="max-width:70%;" />
 </section>
 
-<section data-background-color="#000000" data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=map1>
+<section data-background-color="#532D73" data-state=map1>
 <style>.map1 header:after { content: "MAPPING"; }</style>
     <img src="assets/images/wb.png" style="max-width:70%;">
 </section>

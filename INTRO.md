@@ -200,29 +200,29 @@ custom_head: head-default.html
 
 <section data-background-color="#5cb17a" data-state=header0>
     <!-- <img src="assets/images/soundSysPicnic_g_al.png" /> -->
-    A fictional narrative featuring both human and nonhuman characters to convey a moral or lesson through their actions and experiences.<br>These narratives can range from etiquette to ethics and societal values.
+    <span style="color:white;">A fictional narrative featuring both human and nonhuman characters to convey a moral or lesson through their actions and experiences.<br><br>These narratives can range from etiquette to ethics and societal values.</span>
 </section>
 
 <section data-background-color="#5cb17a" data-state=header1>
     <span class="pic">NEW<br>Rituals</span>
 </section>
-<section data-state=rit>
+<section data-background-color="#5cb17a" data-state=rit>
 <style>.rit header:after { content: "-"; }</style>
      <img src="assets/images/tomsachs.webp" style="max-width:70%;"/>
 </section>
-<section data-state=rit>
+<section data-background-color="#5cb17a" data-state=rit>
      <img src="assets/images/spaceceleb.jpg" style="max-width:70%;" />
 </section>
-<section data-state=rit>
+<section data-background-color="#5cb17a" data-state=rit>
      <img src="assets/images/trucksim.jpg" style="max-width:70%;" />
 </section>
 
-<section data-background-color="#532D73" data-state=map1>
+<section data-background-color="#5cb17a" data-background-color="#532D73" data-state=map1>
 <style>.map1 header:after { content: "MAPPING"; }</style>
     <img src="assets/images/wb.png" style="max-width:70%;">
 </section>
 
-<section data-background-color="#5cb17a" data-state=grid>
+<section data-background-color="#5cb17a" data-background-color="#5cb17a" data-state=grid>
 <style>.grid header:after { content: "The Grid"; }</style>
 <table >
     <tr>

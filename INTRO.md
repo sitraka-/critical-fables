@@ -10,7 +10,7 @@ custom_head: head-default.html
     <span class="lit">CRITICAL<br>FABLES</span>
 </section>
 
-<section data-background-color="#0056FF" data-state=header1>
+<section data-state=header1>
     <style>.header1 header:after { content: "Sitraka.co.uk"; }</style>
     <!-- <blockquote>
         The details are not the details, they make the product, just as details make the architecture — the gauge of the wire, the selection of the wood, the finish of the castings — the connections, the connections, the connections.
@@ -80,7 +80,7 @@ custom_head: head-default.html
     <iframe width="560" height="420" src="https://www.youtube.com/embed/4138Lvbh4xU?si=Ud4NIj3TaRsMYBkW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
-<section data-background-color="indigo" data-state=header10>
+<section data-background-color="#532D73" data-state=header10>
 <style>.header10 header:after { content: "vvfa.space"; color: "white" }</style>
     <span class="lo" style="color:#FFFFFF;">\'\'≠.\</span> 
 </section>
@@ -153,7 +153,7 @@ custom_head: head-default.html
     <style>.gold header:after { content: "Voyager Golden Record, 1977"; }</style>
 </section>
 
-<section data-background-color="indigo" data-state=header14>
+<section data-background-color="#532D73" data-state=header14>
     <span class="rub-MR" style="color:#FFFFFF;">REVERSE ARCHEOLOGY</span>
 </section>
 

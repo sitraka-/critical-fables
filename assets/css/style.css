@@ -138,6 +138,7 @@ td {
 }
 
 body {
+    accent-color: #6cc78c;
     background: var(--bg);
     /*     var(--bg); */
     /*     background-image: url("../../assets/images/AC76-1089.jpeg");

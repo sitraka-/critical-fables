@@ -91,7 +91,7 @@ custom_head: head-default.html
 
 <section data-background-image="assets/images/pp1.jpg" data-state=header11>
     <style>.header11 header:after { content: "Prophecy Program, 2013"; }</style>
-    PROPHECY PROGRAM
+    <span style="font-size:5rem; font-weight:bold;">PROPHECY PROGRAM</span>
 </section>
 
 <section data-background-image="assets/images/pp2.jpg" data-state=header11>
@@ -114,7 +114,7 @@ custom_head: head-default.html
 
 <section data-background-image="assets/images/sho1.jpg" data-state=header12>
     <style>.header12 header:after { content: "Shocking, 2010"; }</style>
-    SHOCKING
+    <span style="font-size:5rem; font-weight:bold;">SHOCKING</span>
 </section>
 
 <section data-background-image="assets/images/sho2.jpg" data-state=header12>

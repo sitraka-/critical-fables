@@ -151,10 +151,22 @@ custom_head: head-default.html
     <iframe width="560" height="420" src="https://www.youtube.com/embed/Z0lArfzw59c?si=ygsn0G2ROT8yxRpn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
-<section data-background-image="assets/images/monorail.jpg" data-state=header17>
+<section data-background-image="assets/images/monrail.jpg" data-state=header17>
 <style>.header17 header:after { content: "Shuttle Proposal, Monorail, Los Angeles, 1954"; }</style>
 </section>
 
+<section data-background-image="assets/images/pokeys.jpg" data-state=header18>
+<style>.header18 header:after { content: "Pokey's, 1955"; }</style>
+</section>
+
+<section data-background-image="assets/images/pokeys.jpg" data-state=header18>
+<style>.header18 header:after { content: "Pokey's, 1955"; }</style>
+</section>
+
+<section data-state=header19>
+    <style>.header19 header:after { content: ""; }</style>
+    <img src="assets/images/drivecine.jpg" />
+</section>
 
 
 

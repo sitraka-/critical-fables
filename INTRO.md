@@ -329,7 +329,7 @@ custom_head: head-default.html
 
 <section data-state=if>
 <style>.if header:after { content: "Imagine If, Tate Britain, 2019"; }</style>
-     <p class="flexy"><img src="assets/images/Table 1.jpg" style="max-width:70%;" /><img src="assets/images/Table2.jpg" style="max-width:70%;" /></p>
+     <p class="flexy"><img src="assets/images/Table 1.jpg" style="width:30%; max-width:70%;" /><img src="assets/images/Table2.jpg" style="max-width:70%;" /></p>
 </section>
 
 <section data-background-image="assets/images/wb.png" data-background-size="60%" data-background-color="#532D73" data-state=map1>

@@ -18,8 +18,8 @@
 
 @font-face {
     font-family: "HND";
-    src: url("../../assets/fonts/HND/HelveticaNowDisplay-Bold.eot") format("embedded-opentype"),
-        url("../../assets/fonts/HND/HelveticaNowDisplay-Bold.woff") format("woff");
+    src: url("../../assets/fonts/HND/HelveticaNowDisplay-XBlk.eot") format("embedded-opentype"),
+        url("../../assets/fonts/HND/HelveticaNowDisplay-XBlk.woff") format("woff");
 }
 
 :root {

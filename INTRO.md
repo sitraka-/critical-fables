@@ -193,9 +193,9 @@ custom_head: head-default.html
     <img src="assets/images/medvsproc.jpg" />
 </section>
 
-<section data-state=header0>
+<section data-background-color="indigo" data-state=header0>
     <!-- <img src="assets/images/soundSysPicnic_g_al.png" /> -->
-    <span class="lit">CRITICAL<br>FABLES</span>
+    <span class="lit" style="color:#FFFFFF;">CRITICAL<br>FABLES</span>
 </section>
 
 <section data-state=header0>

@@ -226,6 +226,7 @@ custom_head: head-default.html
 <style>.grid header:after { content: "The Grid"; }</style>
 <table >
     <tr>
+        <td>X</td>
         <td><input type="text" /></td>
         <td><input type="text" /></td>
         <td><input type="text" /></td>
@@ -234,7 +235,83 @@ custom_head: head-default.html
         <td><input type="text" /></td>
         <td><input type="text" /></td>
         <td><input type="text" /></td>
+    </tr>
+    <tr>
         <td><input type="text" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+    </tr>
+    <tr>
+        <td><input type="text" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+    </tr>
+    <tr>
+        <td><input type="text" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+    </tr>
+    <tr>
+        <td><input type="text" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+    </tr>
+    <tr>
+        <td><input type="text" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+    </tr>
+    <tr>
+        <td><input type="text" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+    </tr>
+    <tr>
+        <td><input type="text" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
     </tr>
 </table>
 </section>

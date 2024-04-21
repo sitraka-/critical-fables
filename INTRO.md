@@ -222,7 +222,7 @@ custom_head: head-default.html
     <img src="assets/images/wb.png" style="max-width:70%;">
 </section>
 
-<section data-state=grid>
+<section data-background-color="#5cb17a" data-state=grid>
 <style>.grid header:after { content: "The Grid"; }</style>
 <table >
     <tr>

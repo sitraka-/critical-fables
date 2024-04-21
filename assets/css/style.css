@@ -67,6 +67,11 @@ input {
     text-align: center;
 }
 
+tr {
+    padding: 0 !important;
+    border: none;
+}
+
 td {
     padding: 0 !important;
 }

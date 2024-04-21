@@ -308,6 +308,17 @@ custom_head: head-default.html
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
     </tr>
+    <tr>
+        <td><textarea rows="2" cols="10"></textarea></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+    </tr>
 </table>
 </section>
 

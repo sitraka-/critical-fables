@@ -75,9 +75,16 @@
     color: var(--color-heading);
 }
 
+.rub-W {
+    font-family: var(--rub-w-font);
+    font-size: 5rem;
+    text-align: left;
+    color: var(--color-heading);
+}
+
 .rub-MR {
     font-family: var(--rub-mr-font);
-    font-size: 12rem;
+    font-size: 8rem;
     color: var(--color-heading);
 }
 

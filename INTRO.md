@@ -81,7 +81,7 @@ custom_head: head-default.html
 </section>
 
 <section data-state=header10>
-    <span class="rub-MR">OBJECTS —<br>AS NARRATIVES</span>
+    <span class="rub-MR">OBJECTS<br>AS NARRATIVES</span>
 </section>
 
 <section data-state=header11>
@@ -114,7 +114,7 @@ custom_head: head-default.html
 </section>
 
 <section data-state=header12>
-    <style>.header11 header:after { content: "Shocking, 2010"; }</style>
+    <style>.header12 header:after { content: "Shocking, 2010"; }</style>
     <img src="assets/images/sho1.jpg" />
 </section>
 
@@ -136,6 +136,16 @@ custom_head: head-default.html
 
 <section data-state=header12>
     <img src="assets/images/sho6.jpg" />
+</section>
+
+<section data-state=header13>
+    <style>.header13 header:after { content: "VVFA, 2015"; }</style>
+    <img src="assets/images/wenDia.jpg" />
+</section>
+
+<section data-state=header14>
+    <style>.header14 header:after { content: "VVFA, 2015"; }</style>
+    <span class="rub-W">IMAGINING OBJECTS, ARTEFACTS AND THINGS EMBODYING THE WORLD WITHIN WHICH THESE THINGS EXIST.</span>
 </section>
 
 

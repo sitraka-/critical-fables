@@ -80,9 +80,9 @@ custom_head: head-default.html
     <iframe width="560" height="420" src="https://www.youtube.com/embed/4138Lvbh4xU?si=Ud4NIj3TaRsMYBkW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
-<section data-state=header10>
+<section data-background-color="indigo" data-state=header10>
 <style>.header10 header:after { content: "vvfa.space"; }</style>
-    <span class="lo">\'\'≠.\</span> <span class="lo-s">Very Very Far Away</span>
+    <span class="lo" style="color:#FFFFFF;">\'\'≠.\</span> <span class="lo-s" style="color:#FFFFFF;">Very Very Far Away</span>
 </section>
 
 <section data-state=header10>
@@ -144,7 +144,7 @@ custom_head: head-default.html
 
 <section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="1" data-state=kesh>
     <style>.kesh header:after { content: "Le Guin U. & Barton T., Music and Poetry of the Kesh, 1984"; }</style>
-    <img src="assets/images/Le-Guin2.jpg" />
+    <img src="assets/images/Le-Guin2.jpg" style="max-width:70%; />
     <aside class="notes">
     </aside>
 </section>
@@ -153,8 +153,8 @@ custom_head: head-default.html
     <style>.gold header:after { content: "Voyager Golden Record, 1977"; }</style>
 </section>
 
-<section data-state=header14>
-    <span class="rub-MR">REVERSE ARCHEOLOGY</span>
+<section data-background-color="indigo" data-state=header14>
+    <span class="rub-MR" style="color:#FFFFFF;">REVERSE ARCHEOLOGY</span>
 </section>
 
 <section data-background-color="#000000" data-state=header15>
@@ -219,5 +219,5 @@ custom_head: head-default.html
 
 <section data-background-color="#000000" data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=map1>
 <style>.map1 header:after { content: "MAPPING"; }</style>
-    <img src="assets/images/wb.png"/>
+    <img src="assets/images/wb.png" style="max-width:70%;/>
 </section>

@@ -9,23 +9,33 @@ custom_head: head-default.html
     <!-- <img src="assets/images/soundSysPicnic_g_al.png" /> -->
     <span class="lit">CRITICAL<br>FABLES</span>
 </section>
+
 <section data-background-color="#0056FF" data-state=header1>
-    <style>.header1 header:after { content: "Charles Eames"; }</style>
-    <blockquote>
+    <style>.header1 header:after { content: "Sitraka.co.uk"; }</style>
+    <!-- <blockquote>
         The details are not the details, they make the product, just as details make the architecture — the gauge of the wire, the selection of the wood, the finish of the castings — the connections, the connections, the connections.
-    </blockquote>
+    </blockquote> -->
+    <span class="rub-B">DESIGNING<br>THINGS</span>
     <aside class="notes">
         Design does not exist in isolation, it isn't about a singular action. 📝
     </aside>
 </section>
-<section data-background-color="black" data-state=header2>
-    <style>.header2 header:after { content: "Power of 10 — Charles & Ray Eames (1977)"; }</style>
-    <iframe width="560" height="420" src="https://www.youtube.com/embed/0fKBhvDjuy0?si=hW3hk7N34l9aM8RI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<section data-background-image="assets/images/tc_arm.jpg" data-state=header2>
+    <style>.header2 header:after { content: "Time Conditioning, 2010-2014"; }</style>
+    <!-- <iframe width="560" height="420" src="https://www.youtube.com/embed/0fKBhvDjuy0?si=hW3hk7N34l9aM8RI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 </section>
+
 <section data-state=header3>
-    <style>.header3 header:after { content: "DESIGN AS PROCESS"; }</style>
-    Connections between what?
+    <style>.header3 header:after { content: "Wind Concert, 2015"; }</style>
+    <img src="assets/images/windCon_1.jpg" />
 </section>
+
+<section data-background-image="assets/images/windCon_1.jpg" data-state=header3>
+    <img src="assets/images/windCon_2.jpg" />
+</section>
+
+
 <section data-state=header3>
 <!-- <style>.header3 header:after { content: "DESIGN AS PROCESS"; }</style> -->
     <p style="text-align:left;width: 70%;margin: 0 auto;">Disciplines</p>

@@ -6,6 +6,12 @@
         url("../../assets/fonts/montchauve/montchauve.svg#montchauve") format("svg");
 }
 
+@font-face {
+    font-family: "lithops";
+    src: url("../../assets/fonts/lithops-main/fonts/Lithops-Regular.otf") format("opentype"),
+        url("../../assets/fonts/lithops-main/fonts/webfonts/Lithops-Regular.woff") format("woff");
+}
+
 :root {
     --main-color: #1b1b1b;
     --bg: gainsboro;
@@ -20,10 +26,16 @@
         'Vesper Libre', serif;
     --maxW: 50%;
     --minW: 550px;
+    --heading-font: 'lithops';
 }
 
 .mc {
     font-family: "Montchauve", sans-serif;
+    font-size: 8rem;
+}
+
+.lit {
+    font-family: var(--heading-font);
     font-size: 8rem;
 }
 

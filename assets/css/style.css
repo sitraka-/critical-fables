@@ -154,7 +154,7 @@ td {
 }
 
 body {
-    accent-color: #6cc78c;
+    accent-color: var(--color-heading);
     background: var(--bg);
     /*     var(--bg); */
     /*     background-image: url("../../assets/images/AC76-1089.jpeg");

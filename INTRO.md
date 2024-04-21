@@ -226,7 +226,7 @@ custom_head: head-default.html
 <style>.grid header:after { content: "The Grid"; }</style>
 <table >
     <tr>
-        <td>X</td>
+        <td>ENV/TECH</td>
         <td><input type="text" /></td>
         <td><input type="text" /></td>
         <td><input type="text" /></td>

@@ -75,6 +75,11 @@ custom_head: head-default.html
     <iframe width="560" height="420" src="https://www.youtube.com/embed/NXHUm-2NJ1Q?si=LyxwW6-HSy7tDYLX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
 
+<section data-background-color="#000000" data-state=moonwalk>
+<style>.moonwalk header:after { content: "Learning To Moonwalk, 2022-present"; }</style>
+    <iframe width="560" height="420" src="https://www.youtube.com/embed/4138Lvbh4xU?si=Ud4NIj3TaRsMYBkW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
 <section data-state=header10>
 <style>.header10 header:after { content: "vvfa.space"; }</style>
     <span class="lo">\'\'≠.\</span> <span class="lo-s">Very Very Far Away</span>
@@ -159,13 +164,9 @@ custom_head: head-default.html
 <style>.header18 header:after { content: "Pokey's, 1955"; }</style>
 </section>
 
-<section data-background-image="assets/images/pokeys.jpg" data-state=header18>
-<style>.header18 header:after { content: "Pokey's, 1955"; }</style>
-</section>
-
 <section data-state=header19>
     <style>.header19 header:after { content: ""; }</style>
-    <img src="assets/images/drivecine.jpg" />
+    <img src="assets/images/drivecine.jpg" style="max-height: 65vh;" />
 </section>
 
 <section data-background-image="assets/images/traffic.jpg" data-state=header20>
@@ -181,6 +182,15 @@ custom_head: head-default.html
     <img src="assets/images/medvsproc.jpg" />
 </section>
 
+<section data-state=header0>
+    <!-- <img src="assets/images/soundSysPicnic_g_al.png" /> -->
+    <span class="lit">CRITICAL<br>FABLES</span>
+</section>
+
+<section data-state=header0>
+    <!-- <img src="assets/images/soundSysPicnic_g_al.png" /> -->
+    <span class="rub-W">A fictional narrative featuring both human and nonhuman characters to convey a moral or lesson through their actions and experiences. These narratives can range from etiquette to ethics and societal values.</span>
+</section>
 
 <section data-background-color="#0056FF" data-state=header4>
 <style>.header4 header:after { content: "The Brief"; }</style>

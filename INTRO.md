@@ -81,8 +81,8 @@ custom_head: head-default.html
 </section>
 
 <section data-background-color="indigo" data-state=header10>
-<style>.header10 header:after { content: "vvfa.space"; }</style>
-    <span class="lo" style="color:#FFFFFF;">\'\'≠.\</span> <span class="lo-s" style="color:#FFFFFF;">Very Very Far Away</span>
+<style>.header10 header:after { content: "vvfa.space"; color: "white" }</style>
+    <span class="lo" style="color:#FFFFFF;">\'\'≠.\</span> 
 </section>
 
 <section data-state=header10>

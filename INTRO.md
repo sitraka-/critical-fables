@@ -72,7 +72,16 @@ custom_head: head-default.html
 
 <section data-background-color="#000000" data-state=header9>
 <style>.header9 header:after { content: "Resonating Sphere, 2023"; }</style>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/NXHUm-2NJ1Q?si=LyxwW6-HSy7tDYLX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="420" src="https://www.youtube.com/embed/NXHUm-2NJ1Q?si=LyxwW6-HSy7tDYLX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
+<section data-state=header10>
+<style>.header10 header:after { content: "vvfa.space"; }</style>
+    <span class="lo-s">Very Very Far Away</span><br><span class="lo">\'\'≠.\</span>
+</section>
+
+<section data-state=header10>
+    <span class="rub-MR">OBJECTS<br>AS NARRATIVES</span>
 </section>
 
 

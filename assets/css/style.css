@@ -2,7 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Rubik+Puddles&family=Rubik+Beastly&family=Rubik+Wet+Paint&display=swap');
 
-
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&family=Syne:wght@400..800&display=swap');
 
 @font-face {
     font-family: "Montchauve";
@@ -16,11 +16,17 @@
         url("../../assets/fonts/lithops-main/fonts/webfonts/Lithops-Regular.woff") format("woff");
 }
 
+@font-face {
+    font-family: "HND";
+    src: url("../../assets/fonts/HND/HelveticaNowDisplay-Bold.eot") format("embedded-opentype"),
+        url("../../assets/fonts/HND/HelveticaNowDisplay-Bold.woff") format("woff");
+}
+
 :root {
     --main-color: #1b1b1b;
     --bg: gainsboro;
     --link-color: #0000FF;
-    --secondary-color: #d7daddd4;
+    --secondary-color: #32485ed4;
     --secondary-text-color: #ffffffd4;
     --display-font:
         'IBM Plex Mono', monospace;
@@ -32,15 +38,29 @@
     --minW: 550px;
     --heading-font: 'lithops';
     --color-heading: indigo;
-    --rub-font: 'Rubik Wet Paint';
+    --rub-w-font: 'Rubik Wet Paint';
     --rub-b-font: 'Rubik Beastly';
     --rub-p-font: 'Rubik Puddles';
     --rub-m-font: 'Rubik Mono One';
+    --rub-mr-font: 'Rubik Moonrocks';
+    --HND: 'HND';
 }
 
 .mc {
     font-family: "Montchauve", sans-serif;
     font-size: 8rem;
+}
+
+.lo-s {
+    font-family: var(--HND);
+    font-size: 2rem;
+    color: var(--color-heading);
+}
+
+.lo {
+    font-family: var(--HND);
+    font-size: 12rem;
+    color: var(--color-heading);
 }
 
 .lit {
@@ -51,7 +71,13 @@
 
 .rub-B {
     font-family: var(--rub-b-font);
-    font-size: 8rem;
+    font-size: 12rem;
+    color: var(--color-heading);
+}
+
+.rub-MR {
+    font-family: var(--rub-mr-font);
+    font-size: 12rem;
     color: var(--color-heading);
 }
 

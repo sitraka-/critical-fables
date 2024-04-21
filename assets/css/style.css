@@ -69,6 +69,7 @@ textarea {
     text-align: center;
     background-color: #6cc78c;
     font-family: var(--display-font) !important;
+    font-size: 8px;
 }
 
 tr {

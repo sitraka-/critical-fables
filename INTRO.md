@@ -222,28 +222,17 @@ custom_head: head-default.html
 <table >
     <tr>
         <td>ENV/TECH</td>
-        <td><textarea rows="2" cols="10"></textarea></td>
-        <td><textarea rows="2" cols="10"></textarea></td>
-        <td><textarea rows="2" cols="10"></textarea></td>
-        <td><textarea rows="2" cols="10"></textarea></td>
-        <td><textarea rows="2" cols="10"></textarea></td>
-        <td><textarea rows="2" cols="10"></textarea></td>
-        <td><textarea rows="2" cols="10"></textarea></td>
-        <td><textarea rows="2" cols="10"></textarea></td>
+        <td><textarea rows="4" cols="10"></textarea></td>
+        <td><textarea rows="4" cols="10"></textarea></td>
+        <td><textarea rows="4" cols="10"></textarea></td>
+        <td><textarea rows="4" cols="10"></textarea></td>
+        <td><textarea rows="4" cols="10"></textarea></td>
+        <td><textarea rows="4" cols="10"></textarea></td>
+        <td><textarea rows="4" cols="10"></textarea></td>
+        <td><textarea rows="4" cols="10"></textarea></td>
     </tr>
     <tr>
-        <td><textarea rows="2" cols="10"></textarea></td>
-        <td><input type="radio" /></td>
-        <td><input type="radio" /></td>
-        <td><input type="radio" /></td>
-        <td><input type="radio" /></td>
-        <td><input type="radio" /></td>
-        <td><input type="radio" /></td>
-        <td><input type="radio" /></td>
-        <td><input type="radio" /></td>
-    </tr>
-    <tr>
-        <td><textarea rows="2" cols="10"></textarea></td>
+        <td><textarea rows="4" cols="10"></textarea></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
@@ -254,7 +243,7 @@ custom_head: head-default.html
         <td><input type="radio" /></td>
     </tr>
     <tr>
-        <td><textarea rows="2" cols="10"></textarea></td>
+        <td><textarea rows="4" cols="10"></textarea></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
@@ -265,7 +254,7 @@ custom_head: head-default.html
         <td><input type="radio" /></td>
     </tr>
     <tr>
-        <td><textarea rows="2" cols="10"></textarea></td>
+        <td><textarea rows="4" cols="10"></textarea></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
@@ -276,7 +265,7 @@ custom_head: head-default.html
         <td><input type="radio" /></td>
     </tr>
     <tr>
-        <td><textarea rows="2" cols="10"></textarea></td>
+        <td><textarea rows="4" cols="10"></textarea></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
@@ -287,7 +276,7 @@ custom_head: head-default.html
         <td><input type="radio" /></td>
     </tr>
     <tr>
-        <td><textarea rows="2" cols="10"></textarea></td>
+        <td><textarea rows="4" cols="10"></textarea></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
@@ -298,7 +287,7 @@ custom_head: head-default.html
         <td><input type="radio" /></td>
     </tr>
     <tr>
-        <td><textarea rows="2" cols="10"></textarea></td>
+        <td><textarea rows="4" cols="10"></textarea></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
@@ -309,7 +298,122 @@ custom_head: head-default.html
         <td><input type="radio" /></td>
     </tr>
     <tr>
-        <td><textarea rows="2" cols="10"></textarea></td>
+        <td><textarea rows="4" cols="10"></textarea></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+    </tr>
+    <tr>
+        <td><textarea rows="4" cols="10"></textarea></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+    </tr>
+</table>
+</section>
+
+<section data-state=grid>
+<table >
+    <tr>
+        <td>ENV/TECH</td>
+        <td><textarea rows="4" cols="10">Quantum Communication / Data Transmission</textarea></td>
+        <td><textarea rows="4" cols="10">CRISPR Gene Editing</textarea></td>
+        <td><textarea rows="4" cols="10">Neuralink BCI for resored mobility</textarea></td>
+        <td><textarea rows="4" cols="10">Cultured Meat</textarea></td>
+        <td><textarea rows="4" cols="10">Advanced Prosthetics and Exoskeletons</textarea></td>
+        <td><textarea rows="4" cols="10">Lab Grown organs and tissue transplant</textarea></td>
+        <td><textarea rows="4" cols="10">Biometric authentication</textarea></td>
+        <td><textarea rows="4" cols="10">Blockchain for transparent supply chain</textarea></td>
+    </tr>
+    <tr>
+        <td><textarea rows="4" cols="10">Atacama, Yungay region, driest place on Earth</textarea></td>
+        <td><input type="radio" />Kourou Spaceport</td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+    </tr>
+    <tr>
+        <td><textarea rows="4" cols="10">Jornada Experimental Range, in New Mexico</textarea></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+    </tr>
+    <tr>
+        <td><textarea rows="4" cols="10">Chernobyl Nuclear Power Plant site's Exclusion Zone</textarea></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+    </tr>
+    <tr>
+        <td><textarea rows="4" cols="10">Arecibo Observatory in Puerto Rico</textarea></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+    </tr>
+    <tr>
+        <td><textarea rows="4" cols="10">Svalbard Global Seed Vault in Norway</textarea></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+    </tr>
+    <tr>
+        <td><textarea rows="4" cols="10">Amundsen–Scott South Pole Station</textarea></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+    </tr>
+    <tr>
+        <td><textarea rows="4" cols="10">The underground cities of Cappadocia, Turkey</textarea></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+    </tr>
+    <tr>
+        <td><textarea rows="4" cols="10">Danakil Depression in Ethiopia</textarea></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>

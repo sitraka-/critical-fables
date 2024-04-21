@@ -217,11 +217,6 @@ custom_head: head-default.html
      <img src="assets/images/trucksim.jpg" style="max-width:70%;" />
 </section>
 
-<section data-background-color="#5cb17a" data-background-color="#532D73" data-state=map1>
-<style>.map1 header:after { content: "MAPPING"; }</style>
-    <img src="assets/images/wb.png" style="max-width:70%;">
-</section>
-
 <section data-background-color="#5cb17a" data-background-color="#5cb17a" data-state=grid>
 <style>.grid header:after { content: "The Grid"; }</style>
 <table >
@@ -314,4 +309,9 @@ custom_head: head-default.html
         <td><input type="radio" /></td>
     </tr>
 </table>
+</section>
+
+<section data-background-color="#5cb17a" data-background-color="#532D73" data-state=map1>
+<style>.map1 header:after { content: "MAPPING"; }</style>
+    <img src="assets/images/wb.png" style="max-width:70%;">
 </section>

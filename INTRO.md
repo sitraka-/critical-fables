@@ -193,14 +193,14 @@ custom_head: head-default.html
     <img src="assets/images/medvsproc.jpg" />
 </section>
 
-<section data-background-color="indigo" data-state=header0>
+<section data-background-color="#532D73" data-state=header0>
     <!-- <img src="assets/images/soundSysPicnic_g_al.png" /> -->
     <span class="lit" style="color:#FFFFFF;">CRITICAL<br>FABLES</span>
 </section>
 
 <section data-state=header0>
     <!-- <img src="assets/images/soundSysPicnic_g_al.png" /> -->
-    A fictional narrative featuring both human and nonhuman characters to convey a moral or lesson through their actions and experiences. These narratives can range from etiquette to ethics and societal values.
+    A fictional narrative featuring both human and nonhuman characters to convey a moral or lesson through their actions and experiences.<br>These narratives can range from etiquette to ethics and societal values.
 </section>
 
 <section data-state=header1>

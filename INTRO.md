@@ -200,7 +200,7 @@ custom_head: head-default.html
 
 <section data-background-color="#5cb17a" data-state=header0>
     <!-- <img src="assets/images/soundSysPicnic_g_al.png" /> -->
-    <span style="color:white;">A fictional narrative featuring both human and nonhuman characters to convey a moral or lesson through their actions and experiences.<br><br>These narratives can range from etiquette to ethics and societal values.</span>
+    <span style="color:white;">A fictional narrative featuring both human and nonhuman characters that conveys a moral or lesson through their actions and experiences. <br><br>These narratives can explore a wide array of themes, including etiquette, ethics, societal values, personal growth, and cultural traditions.</span>
 </section>
 
 <section data-background-color="#5cb17a" data-state=header1>

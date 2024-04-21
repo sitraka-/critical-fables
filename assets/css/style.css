@@ -77,7 +77,7 @@ tr {
 td {
     padding: 0 !important;
     border: none !important;
-    text-align: center;
+    text-align: center !important;
 }
 
 .pic {

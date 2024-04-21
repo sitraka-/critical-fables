@@ -56,8 +56,8 @@
 table {
     width: 100%;
     table-layout: fixed;
-    font-family: var(--display-font);
-    font-size: 12px;
+    font-family: var(--display-font) !important;
+    font-size: 12px !important;
 }
 
 input {
@@ -68,8 +68,8 @@ input {
 }
 
 tr {
-    padding: 0 !important;
-    border: none;
+    /* padding: 0 !important; */
+    border: none !important;
 }
 
 td {

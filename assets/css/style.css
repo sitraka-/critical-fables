@@ -50,6 +50,14 @@
     --rub-m-font: 'Rubik Mono One';
     --rub-mr-font: 'Rubik Moonrocks';
     --HND: 'HND';
+    --pic-font: 'picnic';
+}
+
+.pic {
+    font-family: var(--pic-font) !important;
+    font-size: 10rem !important;
+    color: var(--color-heading);
+    line-height: 0.9;
 }
 
 .mc {

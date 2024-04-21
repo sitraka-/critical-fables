@@ -113,6 +113,32 @@ custom_head: head-default.html
     <img src="assets/images/pp6.jpg" />
 </section>
 
+<section data-state=header12>
+    <style>.header11 header:after { content: "Shocking, 2010"; }</style>
+    <img src="assets/images/sho1.jpg" />
+</section>
+
+<section data-state=header12>
+    <img src="assets/images/sho2.jpg" />
+</section>
+
+<section data-state=header12>
+    <img src="assets/images/sho3.jpg" />
+</section>
+
+<section data-state=header12>
+    <img src="assets/images/sho4.jpg" />
+</section>
+
+<section data-state=header12>
+    <img src="assets/images/sho5.jpg" />
+</section>
+
+<section data-state=header12>
+    <img src="assets/images/sho6.jpg" />
+</section>
+
+
 <section data-background-color="#0056FF" data-state=header4>
 <style>.header4 header:after { content: "The Brief"; }</style>
     <blockquote>1.<br>Create connections between objects,<br>and between yourselves</blockquote>

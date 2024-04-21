@@ -168,6 +168,18 @@ custom_head: head-default.html
     <img src="assets/images/drivecine.jpg" />
 </section>
 
+<section data-background-image="assets/images/traffic.jpg" data-state=header20>
+<style>.header20 header:after { content: '“WORST traffic in the world, for the 6th year straight”, abc7, 2018'; }</style>
+</section>
+
+<section data-background-image="assets/images/boring.png" data-state=header21>
+<style>.header21 header:after { content: 'The Boring Company'; }</style>
+</section>
+
+<section data-state=header19>
+    <style>.header19 header:after { content: "VVFA, 2015"; }</style>
+    <img src="assets/images/medvsproc.jpg" />
+</section>
 
 
 <section data-background-color="#0056FF" data-state=header4>

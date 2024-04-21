@@ -311,7 +311,11 @@ custom_head: head-default.html
 </table>
 </section>
 
-<section data-background-color="#5cb17a" data-background-color="#532D73" data-state=map1>
+<section data-background-color="#532D73" data-state=map1>
 <style>.map1 header:after { content: "MAPPING"; }</style>
+    <img src="assets/images/wb.png" style="max-width:70%;">
+</section>
+
+<section data-background-image="assets/images/wb.png" data-background-size="contain" data-background-color="#532D73" data-state=map1>
     <img src="assets/images/wb.png" style="max-width:70%;">
 </section>

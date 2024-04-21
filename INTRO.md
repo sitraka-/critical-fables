@@ -327,6 +327,11 @@ custom_head: head-default.html
     <img src="assets/images/wb.png" style="max-width:70%;">
 </section>
 
+<section data-state=if>
+<style>.if header:after { content: "Imagine If, Tate Britain, 2019"; }</style>
+     <p class="flexy"><img src="assets/images/Table 1.jpg" style="max-width:70%;" /><img src="assets/images/Table2.jpg" style="max-width:70%;" /></p>
+</section>
+
 <section data-background-image="assets/images/wb.png" data-background-size="60%" data-background-color="#532D73" data-state=map1>
     <p class="flexy"><span>✓POLICY-MAKING</span><span class="fragment">✓HEALTH & SAFETY</span></p>
     <p class="flexy margin6remTop"><span class="fragment">✓SOCIAL FABRIC</span><span class="fragment">✓WEALTH DISTRIBUTION</span></p>

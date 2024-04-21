@@ -22,12 +22,13 @@ section.has-light-background h6 {
  *********************************************/
 :root {
   --secondary-color: #d7daddd4;
-  --r-background-color: lightblue;
-  --r-main-font: 'IBM Plex Sans', sans-serif;
+  --r-background-color: gainsboro;
+  /* --r-main-font: 'IBM Plex Sans', sans-serif; */
+  --r-main-font: 'Vesper Libre', serif;
   --quote-font:
     'Vesper Libre', serif;
   --r-main-font-size: 42px;
-  --r-main-color: #1b1b1b;
+  --r-main-color: indigo;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
   --r-heading-font: 'IBM Plex Mono', monospace;
@@ -422,7 +423,7 @@ p.fragment {
 
 .controls-arrow {
   border-radius: 0 !important;
-  color: red !important;
+  color: indigo !important;
 }
 
 .controls-arrow:before {

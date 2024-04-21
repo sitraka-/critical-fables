@@ -77,7 +77,7 @@ custom_head: head-default.html
 
 <section data-state=header10>
 <style>.header10 header:after { content: "vvfa.space"; }</style>
-    <span class="lo-s">Very Very Far Away</span><br><span class="lo">\'\'≠.\</span>
+    <span class="lo">\'\'≠.\</span> <span class="lo-s">Very Very Far Away</span>
 </section>
 
 <section data-state=header10>

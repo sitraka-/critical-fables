@@ -53,13 +53,13 @@
 
 .lo-s {
     font-family: var(--HND);
-    font-size: 2rem;
+    font-size: 5rem;
     color: var(--color-heading);
 }
 
 .lo {
     font-family: var(--HND);
-    font-size: 12rem;
+    font-size: 18rem;
     color: var(--color-heading);
 }
 

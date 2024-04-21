@@ -141,6 +141,22 @@ custom_head: head-default.html
     <span class="rub-MR">REVERSE ARCHEOLOGY</span>
 </section>
 
+<section data-background-color="#000000" data-state=header15>
+<style>.header15 header:after { content: "La Télévision, œil de demain — J.K Raymond Millet, 1947"; }</style>
+    <iframe width="560" height="420" src="https://www.youtube.com/embed/ZKfOcR7Qbu4?si=PY1-X-VjGGxpOJds" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
+<section data-background-color="#000000" data-state=header16>
+<style>.header16 header:after { content: "1999 A.D. — Lee Maden, 1967"; }</style>
+    <iframe width="560" height="420" src="https://www.youtube.com/embed/Z0lArfzw59c?si=ygsn0G2ROT8yxRpn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
+<section data-background-image="assets/images/monorail.jpg" data-state=header17>
+<style>.header17 header:after { content: "Shuttle Proposal, Monorail, Los Angeles, 1954"; }</style>
+</section>
+
+
+
 
 <section data-background-color="#0056FF" data-state=header4>
 <style>.header4 header:after { content: "The Brief"; }</style>

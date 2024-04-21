@@ -65,6 +65,7 @@ input {
     width: 100px;
     border: none;
     text-align: center;
+    background-color: #5cb17a;
 }
 
 tr {
@@ -74,6 +75,8 @@ tr {
 
 td {
     padding: 0 !important;
+    border: none !important;
+    text-align: center;
 }
 
 .pic {

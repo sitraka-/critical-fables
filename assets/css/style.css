@@ -60,6 +60,9 @@ table {
 
 input {
     padding: 0;
+    width: 100px;
+    border: none;
+    text-align: center;
 }
 
 th {

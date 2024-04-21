@@ -222,28 +222,17 @@ custom_head: head-default.html
 <table >
     <tr>
         <td>ENV/TECH</td>
-        <td><textarea rows="2"></textarea></td>
-        <td><input type="text" /></td>
-        <td><input type="text" /></td>
-        <td><input type="text" /></td>
-        <td><input type="text" /></td>
-        <td><input type="text" /></td>
-        <td><input type="text" /></td>
-        <td><input type="text" /></td>
+        <td><textarea rows="2" cols="10"></textarea></td>
+        <td><textarea rows="2" cols="10"></textarea></td>
+        <td><textarea rows="2" cols="10"></textarea></td>
+        <td><textarea rows="2" cols="10"></textarea></td>
+        <td><textarea rows="2" cols="10"></textarea></td>
+        <td><textarea rows="2" cols="10"></textarea></td>
+        <td><textarea rows="2" cols="10"></textarea></td>
+        <td><textarea rows="2" cols="10"></textarea></td>
     </tr>
     <tr>
-        <td><input type="text" /></td>
-        <td><input type="radio" /></td>
-        <td><input type="radio" /></td>
-        <td><input type="radio" /></td>
-        <td><input type="radio" /></td>
-        <td><input type="radio" /></td>
-        <td><input type="radio" /></td>
-        <td><input type="radio" /></td>
-        <td><input type="radio" /></td>
-    </tr>
-    <tr>
-        <td><input type="text" /></td>
+        <td><textarea rows="2" cols="10"></textarea></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
@@ -254,7 +243,7 @@ custom_head: head-default.html
         <td><input type="radio" /></td>
     </tr>
     <tr>
-        <td><input type="text" /></td>
+        <td><textarea rows="2" cols="10"></textarea></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
@@ -265,7 +254,7 @@ custom_head: head-default.html
         <td><input type="radio" /></td>
     </tr>
     <tr>
-        <td><input type="text" /></td>
+        <td><textarea rows="2" cols="10"></textarea></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
@@ -276,7 +265,7 @@ custom_head: head-default.html
         <td><input type="radio" /></td>
     </tr>
     <tr>
-        <td><input type="text" /></td>
+        <td><textarea rows="2" cols="10"></textarea></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
@@ -287,7 +276,7 @@ custom_head: head-default.html
         <td><input type="radio" /></td>
     </tr>
     <tr>
-        <td><input type="text" /></td>
+        <td><textarea rows="2" cols="10"></textarea></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
@@ -298,7 +287,18 @@ custom_head: head-default.html
         <td><input type="radio" /></td>
     </tr>
     <tr>
-        <td><input type="text" /></td>
+        <td><textarea rows="2" cols="10"></textarea></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+        <td><input type="radio" /></td>
+    </tr>
+    <tr>
+        <td><textarea rows="2" cols="10"></textarea></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>

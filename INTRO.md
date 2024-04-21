@@ -229,6 +229,12 @@ custom_head: head-default.html
         <th><input type="text" /></th>
         <th><input type="text" /></th>
         <th><input type="text" /></th>
+        <th><input type="text" /></th>
+        <th><input type="text" /></th>
+        <th><input type="text" /></th>
+        <th><input type="text" /></th>
+        <th><input type="text" /></th>
+        <th><input type="text" /></th>
     </tr>
     <tr>
         <td>Oct. 31</td>

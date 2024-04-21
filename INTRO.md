@@ -222,7 +222,7 @@ custom_head: head-default.html
 <table >
     <tr>
         <td>ENV/TECH</td>
-        <td><input type="text" /></td>
+        <td><textarea rows="2"></textarea></td>
         <td><input type="text" /></td>
         <td><input type="text" /></td>
         <td><input type="text" /></td>

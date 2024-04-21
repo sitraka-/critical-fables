@@ -208,11 +208,11 @@ custom_head: head-default.html
 </section>
 <section data-background-image="assets/images/AC76-0492.1.jpeg" data-state=rit>
 <style>.rit header:after { content: "-"; }</style>
-     <img src="assets/images/tomsachs.webp"/>
+     <img src="assets/images/tomsachs.webp" style="max-width:70%"/>
 </section>
 <section data-background-image="assets/images/AC76-0492.1.jpeg" data-state=rit>
-     <img src="assets/images/spaceceleb.jpg"/>
+     <img src="assets/images/spaceceleb.jpg"style="max-width:70%" />
 </section>
 <section data-background-image="assets/images/AC76-0492.1.jpeg" data-state=rit>
-     <img src="assets/images/trucksim.jpg"/>
+     <img src="assets/images/trucksim.jpg" style="max-width:70%" />
 </section>

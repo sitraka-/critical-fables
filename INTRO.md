@@ -4,8 +4,8 @@ layout: reveal
 custom_head: head-default.html
 ---
 
-<section data-state=header1>
-<style>.header1 header:after { content: "April 22nd 2024"; }</style>
+<section data-state=header0>
+<style>.header0 header:after { content: "April 22nd 2024"; }</style>
     <!-- <img src="assets/images/soundSysPicnic_g_al.png" /> -->
     <span class="lit">CRITICAL<br>FABLES</span>
 </section>

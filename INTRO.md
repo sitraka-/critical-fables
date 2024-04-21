@@ -35,10 +35,9 @@ custom_head: head-default.html
     <img src="assets/images/windCon_2.jpg" />
 </section>
 
-
-<section data-state=header3>
-<!-- <style>.header3 header:after { content: "DESIGN AS PROCESS"; }</style> -->
-    <p style="text-align:left;width: 70%;margin: 0 auto;">Disciplines</p>
+<section data-background-color="#000000" data-state=header4>
+<style>.header4 header:after { content: "Techno-Imaginaries, 2021"; }</style>
+    <!-- <p style="text-align:left;width: 70%;margin: 0 auto;">Disciplines</p>
     <p class="fragment">Departments</p>
     <p class="fragment">Institutions</p>
     <p class="fragment">People & Machines</p>
@@ -47,8 +46,36 @@ custom_head: head-default.html
     <p class="fragment">Objects & Subjects</p>
     <aside class="notes">
         Design as a process that ties things together; makes sense of things, by creating, transforming, arranging things around. 📝
-    </aside>
+    </aside> -->
+    <iframe width="560" height="420" src="https://www.youtube.com/embed/q6rZwaLcLJY?si=gPELobAPzdccVStb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </section>
+
+<section data-background-color="#000000" data-state=header5>
+<style>.header5 header:after { content: "Hard Boiled Disco, 2022"; }</style>
+    <iframe width="560" height="420" src="https://www.youtube.com/embed/Iseb1MZLxlY?si=mnjHNrUZpkd6dwVR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
+<section data-background-color="#000000" data-state=header6>
+<style>.header6 header:after { content: "Spectro Faces, 2020"; }</style>
+    <iframe width="560" height="420" src="https://www.youtube.com/embed/hR5U5rd4N-I?si=dpkQrNej5G6OjP9i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
+<section data-background-color="#000000" data-state=header7>
+<style>.header7 header:after { content: "Midi Chat, 2022"; }</style>
+    <iframe width="560" height="420" src="https://www.youtube.com/embed/kQxYQ4CPyiM?si=d28eLxcsbvEW9zAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
+<section data-background-color="#000000" data-state=header8>
+<style>.header8 header:after { content: "Birds & Fish, 2019"; }</style>
+    <iframe width="560" height="420" src="https://www.youtube.com/embed/0kAAhpbtT2E?si=gPELobAPzdccVStb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
+<section data-background-color="#000000" data-state=header9>
+<style>.header9 header:after { content: "Resonating Sphere, 2023"; }</style>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/NXHUm-2NJ1Q?si=LyxwW6-HSy7tDYLX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</section>
+
+
 <section data-background-color="#0056FF" data-state=header4>
 <style>.header4 header:after { content: "The Brief"; }</style>
     <blockquote>1.<br>Create connections between objects,<br>and between yourselves</blockquote>

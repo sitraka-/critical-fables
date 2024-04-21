@@ -218,7 +218,7 @@ custom_head: head-default.html
 </section>
 
 <section data-state=grid>
-<style>.grid header:after { content: "The Grid"; }</style>
+<style>.grid header:after { content: "Subject's Grid"; }</style>
 <table >
     <tr>
         <td>ENV/TECH</td>
@@ -327,6 +327,7 @@ custom_head: head-default.html
     <img src="assets/images/wb.png" style="max-width:70%;">
 </section>
 
-<section data-background-image="assets/images/wb.png" data-background-size="contain" data-background-color="#532D73" data-state=map1>
-    <img src="assets/images/wb.png" style="max-width:70%;">
+<section data-background-image="assets/images/wb.png" data-background-size="60%" data-background-color="#532D73" data-state=map1>
+    <p><span class="fragment">POLICY-MAKING</span><span class="fragment">HEALTH & SAFETY</span></p>
+     <p><span class="fragment">POLICY-MAKING</span><span class="fragment">HEALTH & SAFETY</span></p>
 </section>

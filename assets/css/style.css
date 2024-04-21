@@ -64,6 +64,7 @@ input {
     padding: 0;
     width: 100px;
     border: none;
+    border-bottom: thin solid var(--color-heading);
     text-align: center;
     background-color: #5cb17a;
 }

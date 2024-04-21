@@ -206,18 +206,18 @@ custom_head: head-default.html
 <section data-background-color="#5cb17a" data-state=header1>
     <span class="pic">NEW<br>Rituals</span>
 </section>
-<section data-background-color="#5cb17a" data-state=rit>
+<section data-state=rit>
 <style>.rit header:after { content: "-"; }</style>
      <img src="assets/images/tomsachs.webp" style="max-width:70%;"/>
 </section>
-<section data-background-color="#5cb17a" data-state=rit>
+<section data-state=rit>
      <img src="assets/images/spaceceleb.jpg" style="max-width:70%;" />
 </section>
-<section data-background-color="#5cb17a" data-state=rit>
+<section data-state=rit>
      <img src="assets/images/trucksim.jpg" style="max-width:70%;" />
 </section>
 
-<section data-background-color="#5cb17a" data-background-color="#5cb17a" data-state=grid>
+<section data-state=grid>
 <style>.grid header:after { content: "The Grid"; }</style>
 <table >
     <tr>

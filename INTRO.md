@@ -142,7 +142,7 @@ custom_head: head-default.html
     <span class="rub-W">IMAGINING OBJECTS, ARTEFACTS AND THINGS EMBODYING THE WORLD WITHIN WHICH THESE THINGS EXIST.</span>
 </section>
 
-<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="1" data-state=kesh>
+<section data-state=kesh>
     <style>.kesh header:after { content: "Le Guin U. & Barton T., Music and Poetry of the Kesh, 1984"; }</style>
     <img src="assets/images/Le-Guin2.jpg" style="max-width:70%;" />
     <aside class="notes">

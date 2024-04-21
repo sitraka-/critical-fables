@@ -337,7 +337,7 @@ custom_head: head-default.html
     </tr>
     <tr>
         <td><textarea rows="4" cols="10">Atacama, Yungay region, driest place on Earth</textarea></td>
-        <td><input type="radio" />Kourou Spaceport</td>
+        <td><input type="radio" /></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
@@ -347,7 +347,7 @@ custom_head: head-default.html
         <td><input type="radio" /></td>
     </tr>
     <tr>
-        <td><textarea rows="4" cols="10">Jornada Experimental Range, in New Mexico</textarea></td>
+        <td><textarea rows="4" cols="10">Kourou Spaceport</textarea></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>
         <td><input type="radio" /></td>

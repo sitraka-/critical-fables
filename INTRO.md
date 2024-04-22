@@ -444,3 +444,8 @@ custom_head: head-default.html
 <section  data-state=map1>
     <img src="assets/images/spacemaking.jpg" />
 </section>
+
+<section data-background-color="#222222" data-state=header0>
+    <!-- <img src="assets/images/soundSysPicnic_g_al.png" /> -->
+    <span class="lit" style="color:#FFFFFF;">CRITICAL<br>FABLES</span>
+</section>

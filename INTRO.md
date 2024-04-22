@@ -440,3 +440,7 @@ custom_head: head-default.html
     <p class="flexy"><span class="fragment">✓POLICY-MAKING</span><span class="fragment">✓HEALTH & SAFETY</span></p>
     <p class="flexy margin6remTop"><span class="fragment">✓SOCIAL FABRIC</span><span class="fragment">✓WEALTH DISTRIBUTION</span></p>
 </section>
+
+<section  data-state=map1>
+    <img src="assets/images/spacemaking.jpg" />
+</section>
